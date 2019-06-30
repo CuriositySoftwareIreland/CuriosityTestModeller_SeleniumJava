@@ -1,0 +1,11 @@
+<JobSetting>
+	<maximumtime>1000000</maximumtime>
+	<url></url>
+	<apikey></apikey>
+	<machinekey></machinekey>
+	<severprofileid>1</severprofileid>
+	<automationtype>BulkResolver</automationtype>
+	<parameters>
+		<parameter name="parDownloadURL" type="fileupload">data/unresolvedData.zip</parameter>
+	</parameters>
+</JobSetting>
